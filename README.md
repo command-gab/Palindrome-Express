@@ -1,4 +1,4 @@
-## Project: Previous-Express-App
+## Project: Palindrome Express
 
 This project was to add Express.js to our previous application. 
 
